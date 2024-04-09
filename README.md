@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Victor");)](https://git.io/typing-svg)
-<img src="https://img.shields.io/static/v1?label=Overview&message=Victor Claudino&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Victor Claudino&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+</p>
 <p align="center">
   <img src="dino.gif"><br><br>
   <a href="#">
