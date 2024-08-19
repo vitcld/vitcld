@@ -9,13 +9,11 @@
   </a>
 </p>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitcld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitcld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false" height="150" alt="languages graph"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitcld&theme=chartreuse-dark&title_color=fff&text_color=fff&layout=compact&langs_count=7&hide_border=true" alt="Most Languages" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitcld&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true&count_private=true" alt="Stats" />
 </div>
-
---- 
+ 
 
 <div align="center">
     <a href="mailto:vitclaudino2214@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
